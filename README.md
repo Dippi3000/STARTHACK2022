@@ -27,7 +27,7 @@ We evaluate the solution based on several areas:
 * Economic: Your solution should have key performance indicators (KPIs), generate value, and critical business decisions should be carefully chosen.
 * Impact: Your solution should make an impact according to at least one of the dimensions below:
   * Social: The commitment to social areas should include all stakeholders (internal and external) of the solution OR
-  * Sustainable: The solution is evaluated according to its environmental impact. A contribution to climate protection or efforts to reduce the CO2 footprint should be an integral part of the solution. 
+  * Sustainable: The solution is evaluated according to its environmental impact. 
 
 ## Team & Questions
 The EWOR team will be available for you during the Hackathon from 9:00 am to 6:00 pm. Denise, David and Justin will be happy to answer your questions. You can either meet us at our booth or contact us via email (denise@ewor.io, david@ewor.io, justin@ewor.io) or Discord.
